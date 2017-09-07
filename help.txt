@@ -1,0 +1,17 @@
+Available commands:
+ - "help" = This! :D
+ - "north" = move north
+ - "south" = move south
+ - "east" = move east
+ - "west" = move west
+ - "up" = move up
+ - "down" = move down
+ - "get" item = pick up item and put in inventory
+ - "drop" item = drop item in the current room
+ - "inventory" = look at items in your inventory
+ - "exit" = end game
+ 
+Items to pick up:
+ - Weapons; Hand Gun, Shot Gun, Sniper-Rifle, Bat
+ - Consumables; Med-kit, Water, Gum
+ - Misc.; Books

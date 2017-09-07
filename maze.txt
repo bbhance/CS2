@@ -1,0 +1,69 @@
+13
+0
+You are in a dark and eerie alleyway downtown. No one is there.
+1
+hand gun;A useful weapon to start your journey
+1 2 -1 -1 -1 -1
+1
+You exit the alleyway and see something creeping out of the fog hovering over the lake.
+0
+5 0 6 7 -1 -1
+2
+You go deeper into the alleyway. Every step you take it seems to get darker and darker. You kicked something, pick it up?
+1
+shotgun;A much more powerful firearm
+0 8 -1 -1 3 4
+3
+There is a stair-well up to what seems to be an abandoned apartment building. 
+0
+-1 -1 10 11 -1 2
+4 
+There is a stair-well down to what looks like a library. Most of the shelves are empty but there is one book with an interesting glow.
+1
+book;An ancient looking piece of literature
+-1 -1 -1 -1 2 -1
+5
+You proceed toward the lake and find a cooler with water, take it?
+1
+water;Refreshing H20 to keep you going
+-1 1 -1 -1 -1 12
+6
+You proceed down the street and run into road construction, search the site for items?
+1
+sniper-rifle;Effective long range shooting
+-1 -1 -1 1 -1 -1
+7
+You continue down the street. It is so foggy, all you can see is the pavement under your feet.
+1
+med-kit;Handy to heal any injuries fast
+-1 -1 1 -1 -1 -1
+8
+You continue down the alley and a light flashes in a untimely manor. There is trash everywhere and it looks as if someone took a bat to the wall. Search through the garbage and debris?
+1
+bat;A very generic, but effective weapon
+2 9 -1 -1 -1 -1
+9
+You continue through the debris and there is a room, completely empty, except for a piece of gum on a disfigured table. Take it?
+1
+gum;Not your average piece of gum
+8 -1 -1 -1 -1 -1
+10
+You open one of the apartment doors. There is an old bed and some crooked photographs on the wall. There is a mysterious looking item laying on the bed.
+1
+book;An ancient looking piece of literature
+-1 -1 -1 3 -1 -1 
+11 
+You open one of the apartment doors. There is a broken refrigerator with water and other expired goods.
+1
+water;Refreshing H20 to keep you going
+-1 -1 3 -1 -1 -1 
+12
+You see a strange glow in the water and dive in about 3 feet. You find a book with an interesting sanskrit-like engraving on the cover.
+1
+book;An ancient looking piece of literature
+-1 -1 -1 -1 5 -1
+13
+
+
+
+
